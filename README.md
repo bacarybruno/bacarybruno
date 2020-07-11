@@ -14,11 +14,12 @@ I am passionate about new technologies and the applications that can be made of 
 ## ⚡ Technologies
 #### Talk me about
 - Mobile application development: React Native, Ionic, Flutter
+- Back-end development: NodeJS
 - Front-end development: React
-- Back-end development: NodeJS (with 
 - Testing: Jest, Codecept, Detox
 - Cloud: Azure, AWS, Docker
 - CI/CD: Jenkins
+- Software Craftsmanship, TDD
 - Trending technologies ✨
 
 ## 🌱 I’m currently learning
@@ -34,4 +35,4 @@ I am passionate about new technologies and the applications that can be made of 
 > Mark Weiser.
 
 ## 😄 Fun fact
-In another life, I would have been a poet. I wrote a collection of poems when I was 14 but I refused to sign the publication.
+In another life, I would have been a poet. I wrote a collection of poems when I was 14 but I refused to sign the publication contract. 😅
