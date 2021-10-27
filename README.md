@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQFKwHySi480Gw/profile-displaybackgroundimage-shrink_350_1400/0/1522826700437?e=1632960000&v=beta&t=_bhap4ON-dD8wyvtR3GptbZB5uLzW3l68-Q0JEFk05w" alt="banner" />
+  <img src="https://i.imgur.com/NcooXM9.jpg" alt="banner" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@ I am passionate about new technologies and the applications that can be made of 
 ## ⚡ Technologies
 #### Talk me about
 - Mobile application development: React Native, Ionic, Flutter
-- Back-end development: NodeJS
+- Back-end development: NodeJS, NestJS
 - Front-end development: React
-- Testing: Jest, Codecept, Detox
-- Cloud: Azure, AWS, Docker
+- Testing: Testing library, Jest, Codecept, Detox
+- Cloud: AWS
 - CI/CD: Jenkins
 - Software Craftsmanship, TDD
 - Trending technologies ✨
